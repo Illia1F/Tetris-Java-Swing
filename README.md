@@ -5,7 +5,7 @@
 * [Screenshots](#screenshots)
 
 ## General info
-This project is a my simple version of Tetris with OOP elements.
+My simple realization version of Tetris with JavaFx.
 An idea for this project came to me after reading this [article](https://zetcode.com/javagames/tetris/).
 
 ## Technologies
